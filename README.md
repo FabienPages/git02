@@ -9,4 +9,4 @@ Les cas en cours ou faits cette année.
 * CRAB
 * EQUIDIA
 
-Pour en savoir plus allez sur [google] (www.google.fr)
+Pour en savoir plus allez sur [google](www.google.fr)
